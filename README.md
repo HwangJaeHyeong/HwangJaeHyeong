@@ -5,6 +5,7 @@
   <li> Application Client Developer
 </ul>
 
+<hr>
 
 <div align=right>
 
@@ -15,10 +16,15 @@
 <div align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangJaeHyeong&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdwogud852)](https://solved.ac/ghkdwogud852/)
 
 
 </div>
+
+<hr>
 
 <div align=center>
 
