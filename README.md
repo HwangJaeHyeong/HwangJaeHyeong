@@ -3,6 +3,7 @@
   <li> Dongguk University Computer Science
   <li> Web Frontend Developer
   <li> Application Client Developer
+  <li> Studying Backend
 </ul>
 
 <hr>
