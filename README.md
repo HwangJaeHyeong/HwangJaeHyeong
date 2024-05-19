@@ -28,6 +28,28 @@
 <hr>
 
 <div align=center>
+award
+## 
+
+1. SPARCS Service Hackathon - 대상(대전시장상)
+2. 2024년도 한국통신학회 동계종합학술발표회 - 우수상
+3. 2023년 한이음 ict 멘토링 공모전 프로보노 트랙 - 입선
+4. 2022년 사회가치창출 아이디어 공모전 - 특별상
+5. 동국대학교 2022 공과대학 아이디어 경진대회 - 우수상
+6. 2022 하반기 홍국지화 연합 Project Idea Competition - 대상
+7. 2021년도 제2회 로컬크리에이터 아이디어챌린지 - 최우수상(충청남도지사상)
+8. 2021년도 FARM 경진대회 - 장려상
+9. 제 4회 D-Tech 기술 / 디자인 공모전 - 특별상(국회의원상)
+10. 2021 제 8회 전국 ict 융합 공모전 - 장려상
+11. 2020년도 겨울 동국 캡스톤디자인 밸류업 - 굿아이디어상
+12. 동국대학교 창의 아이디어 경진대회 - 은상
+
+
+</div>
+
+<hr>
+
+<div align=center>
 
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
